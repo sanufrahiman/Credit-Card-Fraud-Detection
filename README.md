@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection
+o find out whether the credit card transaction was fraudulent or not. While in every machine learning problem, it’s a good rule of thumb to try a variety of algorithms, it can be especially beneficial with imbalanced datasets. Accuracy is not the best metric to use when evaluating imbalanced datasets as it can be misleading. So here metrics like confusion matrix, AUC-ROC , F1 score, precision, recall are used to evaluate.
