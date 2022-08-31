@@ -75,7 +75,7 @@ Recall: the number of true positives divided by the number of positive values in
 
 F1 Score: the weighted average of precision and recall.
 
-Area Under ROC Curve (AUC-ROC): AUC-ROC represents the likelihood of your model distinguishing observations from two classes. In other words, if you randomly select one observation from each class, what’s the probability that your model will be able to “rank” them correctly?
+Area Under ROC Curve (AUC-ROC): AUC-ROC represents the likelihood of your model distinguishing observations from two classes. 
 
 Used SMOTE + Deep Neural Network to solve this. Obtained the following scores:
 
